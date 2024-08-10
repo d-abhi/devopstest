@@ -23,10 +23,10 @@ phases:
   post_build:
     commands:
       - echo "Build completed successfully!"
-artifacts:
-  files:
-    - "**/*"
-  base-directory: "./"
+#artifacts:
+ # files:
+ #   - "**/*"
+ # base-directory: "./"
 
 
 
